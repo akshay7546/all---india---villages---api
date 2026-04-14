@@ -1,6 +1,6 @@
 # 🇮🇳 All India Villages Data Pipeline & API
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a complete backend data pipeline for handling All India village-level data.
 
@@ -12,7 +12,7 @@ It includes:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python (Pandas)
 * MySQL (Workbench)
@@ -20,7 +20,7 @@ It includes:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 VILLAGE_PROJECT/
@@ -39,7 +39,7 @@ VILLAGE_PROJECT/
 
 ---
 
-## 🧹 Data Cleaning (Python)
+## Data Cleaning (Python)
 
 * Reads multiple raw dataset files
 * Cleans and merges data
@@ -54,7 +54,7 @@ python data_cleaning.py
 
 ---
 
-## 🗄️ Database Setup (MySQL)
+## Database Setup (MySQL)
 
 ### Step 1: Open MySQL Workbench
 
@@ -87,7 +87,7 @@ CREATE TABLE villages (
 
 ---
 
-## 🚀 Run Backend API
+## Run Backend API
 
 ### Step 1:
 
@@ -112,7 +112,7 @@ http://localhost:3000/villages
 
 ---
 
-## 🔍 API Endpoints
+## API Endpoints
 
 | Endpoint            | Description            |
 | ------------------- | ---------------------- |
@@ -124,7 +124,7 @@ http://localhost:3000/villages
 
 ---
 
-## 💡 Features
+## Features
 
 * Clean and structured dataset
 * Fast API responses
@@ -133,6 +133,6 @@ http://localhost:3000/villages
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Akshay Kumar
